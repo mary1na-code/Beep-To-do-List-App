@@ -17,8 +17,7 @@ Beep is a responsive, minimalist, and fun To-Do List web app that helps you stay
 - JavaScript
 
 ## 📸 Screenshots
-![Beep Screenshot]([https://photos.app.goo.gl/ChRGGfTz1u3TaTwn6](https://photos.app.goo.gl/aV8fmP8FedZEWncWA))
-
+![Beep Screenshot](https://imgur.com/a/gciyJzV)
 Let's connect at [maryannigwe-oruta](https://www.linkedin.com/in/maryann-igwe-oruta-374309318)
 
 ## 📦 Installation
